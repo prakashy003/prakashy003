@@ -20,14 +20,9 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prakashy-2901bc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a><a href="https://www.instagram.com/prakashh.2901/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a><a href="https://discord.com/users/1274731339312271382">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/prakashy-2901bc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/prakashh.2901/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> <a href="https://discord.com/users/1274731339312271382"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
+
 
 
 

@@ -89,14 +89,6 @@
 
 ---
 
-## 🧩 LeetCode Stats
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/Prakashh2901?theme=dark&font=Karla&ext=heatmap" />
-</p>
-
----
-
 ## 📚 Research Publications
 
 - **Machine Learning-based Soil Fertility Analysis**  
